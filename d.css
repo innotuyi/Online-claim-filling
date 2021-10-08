@@ -1,0 +1,165 @@
+body{
+	margin: 0 auto;
+	background: url(images/16.jpg);
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+	margin-top: 10px;
+}
+#logo{
+	background: grey;
+	margin: 0 auto;
+	width: 1000px;
+	height: 100px;
+	
+}
+#menu{
+	margin: 0 auto;
+	background: sienna;
+	margin-top: -15px;
+	width: 1000px;
+	height: 47px;
+	background-color: 062b02;
+	text-decoration:underline;
+	color: skyblue;
+	active:green;
+	visted:red;
+	link:navy;
+
+
+
+}
+#main{
+	background: green;
+	width: 1000px;
+	margin: 0 auto;
+	margin-top: 2px;
+	height:470px;
+	
+
+}
+a{
+	text-decoration: none;
+	color: skyblue;
+
+}
+footer{
+	margin: 0 auto;
+	width: 1000px;
+	background: navy;
+	height: 20px;
+	border-radius:0px 0px 10px 10px;
+	text-align: center;
+	background-color: 01171c;
+	color: 6b5604;
+
+	
+
+
+
+}
+.img{
+	width: 100px;
+	height: 100px;
+}
+.img1{
+	width: 100px;
+	height: 35px;
+	margin-left: 50px;
+	padding: 5px;
+}
+
+p{
+	margin-top: -70px;
+	margin-left: 150px;
+	font-family: tahoma;
+	
+	font-weight: bold;
+	color:rgba(5,5,5,5);
+font-size: 33px;
+text-shadow:.5px .4px 10px skyblue;
+	font-size: 1.7em;
+
+}
+ul{
+	list-style-type: none;
+
+}
+ul li{
+	display: block;
+	margin: 10px;
+	
+	float: left;
+	border-right: solid 2px;
+	border-color: white;
+	padding-right: 50px;
+	font-size: 21px;
+	text-decoration: none;
+	list-style-type: none;
+	width: 100px;
+	color: ;
+	margin-left:50px;
+
+}
+
+
+
+
+
+#login{background: #012610;
+	margin-left: 500px;
+	margin-top: 10px;
+	border-radius: 6px;
+	font-family: verdana;
+	color: white;
+
+}
+
+
+#lg{
+margin-left: 570px;
+border-radius: 6px;
+
+font-family: Elephant;
+margin-top:10px;
+font-size: 30px;
+color:#0F0;
+text-decoration: underline;
+}
+#wlcm{
+	font-size: 40px;
+	font-family:Haettenschweiler;
+	color: #cedbba;
+	text-decoration: underline;
+	margin-left: 300px;
+}
+#come{
+margin-left:100px;
+text-decoration:underline;
+border:radius:6px;
+color:#00F;
+text-align:left;
+margin-top:20px;
+line-height:20px;
+font-family:Verdana, Geneva, sans-serif;
+font-size:18px;
+
+
+}
+#pit{
+	text-align:right;
+	margin-top: 30px;
+	margin-left:16px;
+	text-align:justify;
+	border-left:20px;
+	}
+	#OO{ background:url(back2.png);
+	}
+		
+		
+		
+	a:hover{color:white;
+	}
+
+
+
+

@@ -1,0 +1,193 @@
+body{
+	margin: 0 auto;
+	background: url(images/16.jpg);
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+	margin-top: 10px;
+	
+}
+#logo{
+	margin: 0 auto;
+	width: 1000px;
+	height: 100px;
+	border-radius:10px;
+		box-shadow:4px 2px 4px 0px #FFF;
+		background:url(images/_menu.png);
+		font-size:26px;
+		text-align:left;
+	
+}
+#menu{
+	margin: 0 auto;
+	background: sienna;
+	margin-top: -7px;
+	width: 1000px;
+	height: 47px;
+	background-color: 062b02;
+	text-decoration:none;
+	color: skyblue;
+		border-radius:10px;
+			box-shadow:4px 2px 4px 0px #FFF;
+			
+
+
+
+}
+#main{
+	background: grey;
+	width: 1000px;
+	margin: 0 auto;
+	margin-top: 2px;
+	height:350px;
+	
+
+}
+a{
+	text-decoration: none;
+	color: skyblue;
+
+}
+.img{
+	width: 150px;
+	height: 100px;
+		border-radius:10px;
+}
+.img1{
+	width: 100px;
+	height: 250px;
+	margin-left: 50px;
+	padding: 5px;
+}
+
+p{
+	margin-top: -70px;
+	margin-left: 150px;
+	font-family: tahoma;
+	
+	font-weight: bold;
+	color:rgba(5,5,5,5);
+font-size: 33px;
+text-shadow:.5px .4px 10px skyblue;
+	font-size: 1.7em;
+
+}
+ul{
+	list-style-type: none;
+
+}
+ul li{
+	display: block;
+	margin: 10px;
+	
+	float: left;
+	border-right: solid 2px;
+	border-color: white;
+	padding-right: 30px;
+	font-size: 21px;
+	text-decoration: none;
+	list-style-type: none;
+	width: 100px;
+	color: ;
+	margin-left:50px;
+
+}
+
+
+
+
+
+#login{
+	margin-left:10px;
+	margin-top: 20px;
+	border-radius: 6px;
+	font-family: verdana;
+	color: white;
+	background:url(back4.png);
+	box-shadow:4px 2px 4px 0px #FFF;
+
+}
+
+
+#lg{
+border-radius: 6px;
+font-family: Elephant;
+margin-top:20px;
+font-size: 30px;
+color:#0F0;
+text-decoration:none;
+text-align:center;
+text-shadow:.5px .4px 10px skyblue;
+}
+#wlcm{
+	font-size: 40px;
+	font-family:Haettenschweiler;
+	color: #cedbba;
+	text-decoration: NONE;
+	margin-left: 100px;
+	color:  #000;
+	text-shadow:.5px .4px 10px skyblue;
+}
+/*login css table*/
+#logword1{
+	float:left;
+	width:440px;
+	height:347px;
+	margin-top:0px;
+	background:url(back4.png);
+	border-radius:10px;
+}
+#logword2{
+	float:right;
+	width:395px;
+	height:347px;
+	margin-top:0px;
+	border-bottom-style:double;
+	box-shadow:4px 2px 4px 2px #FFF;
+	border-radius:10px;
+	background:url(back4.png);
+}
+/*end*/
+#come{
+margin-left:10;
+text-decoration:underline;
+border:radius:6px;
+color:#00F;
+text-align:left;
+margin-right:570px;
+margin-top:60px;
+line-height:40px;
+font-family:Verdana, Geneva, sans-serif;
+}
+	a:hover{color:red;
+	}
+	a:link{color:blue;
+	}
+	a:active{color:margenta;}
+	#inno{ background:url(back.jpg);}
+	
+	#rd{
+	color: white;
+	font-size: 40px;
+	font-family: verdana;
+	margin-left: 40px;
+	margin-top: 80;
+}
+/*footer css bigin*/
+footer{
+	margin: 0 auto;
+	width: 1000px;
+	background: navy;
+	height: 20px;
+	border-radius:0px 0px 10px 10px;
+	text-align: center;
+	background-color: 01171c;
+	color: 6b5604;
+	box-shadow:4px 2px 4px 0px #FFF;
+	/*end*/
+		
+		
+		
+	
+
+
+

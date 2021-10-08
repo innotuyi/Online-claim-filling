@@ -1,0 +1,2 @@
+echo '<script type="text/javascript">alert("person crime Updated Succesfully");window.location=\'view crime.php\';</script>';
+echo '<script type="text/javascript">alert("You Need to delete This message");window.location=\'message.php\';</script>';

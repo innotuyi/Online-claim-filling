@@ -1,0 +1,157 @@
+#slider {
+    position: relative;
+	width: 100%;
+}
+
+#_wrapper {
+	width: 840px;
+	height:570px;
+	border-radius:10px 10px 0px 0px;
+	margin-left:125px;
+	/*body  background photo */
+	background: url(back4.png) no-repeat top center;
+}
+
+#header {
+	width: 840px;
+	height: 140px;
+	text-align: center;
+	background: url(images/_menu.png) no-repeat top center;
+}
+
+#header h1 { margin: 0; padding: 10px 0 0 0; height: 67px; display: block; text-indent: - 10000px; }
+
+#menu {
+	width: 800px;
+	margin: 0 auto;
+	height: 40px;
+	
+}
+#main{
+	background:url(back.jpg);
+	
+	width: 840px;
+	margin: 0 auto;
+	margin-top: 2px;
+	height:350px;
+}
+
+#content {
+	width: 820px;
+	height: 440px;
+	padding: 0 20px 0 0;
+}
+#come{
+margin-left:10px;
+border:radius:1px;
+text-align:left;
+margin-right:30px;
+margin-top:-7px;
+font-size: 12px;
+line-height:-10px;
+padding:2px;
+color:#3F6;
+
+
+}
+#social_box {
+	clear: both;
+	width: 820px;
+	height: 85px;
+	padding: 0 20px 0 0;
+	text-align: right;
+	background: url(images/_followus.png) 220px center no-repeat
+}
+
+#social_box a {
+	display: inline-block;
+	margin-left: 30px;
+	width: 60px; height: 60px;
+}
+
+#footer {
+	width: 840px;
+	color: #CCC;
+	font-size: 12px;
+	height:20px;
+	margin-top:-10px;
+}
+
+#footer a {
+	color: #CCC;
+}
+
+.scroll {
+    height: 440px;
+    width: 820px;
+    overflow: auto;
+    overflow-x: hidden;
+    position: relative;
+    clear: left;
+}
+
+.scrollContainer div.panel {
+    height: 390px;
+    width: 780px;
+	padding: 30px 20px 20px;
+	overflow: hidden;
+}
+
+ul.navigation {
+	width: 600px;
+    list-style: none;
+    margin: 0 auto;
+    padding: 0;
+}
+
+ul.navigation li {
+    display: inline;
+    margin: 0;
+	padding: 0;
+	
+}
+
+ul.navigation a {
+	float: left;
+	display: block;
+	width: 100px;
+	height: 36px;
+	padding-top: 10px;
+	padding-left:0px;
+	color: #d5bf3a;
+	font-size: 15px;
+	font-weight: bold;
+    text-decoration: none;
+	text-align:center;
+	background: url(images/_menu_bg.png) no-repeat top center
+}
+
+ul.navigation a:hover, ul.navigation a.selected {
+	color: #ffea6e;
+	background: url(images/_menu_hover.png) center top no-repeat;
+}
+
+ul.navigation a:focus {
+    outline: none;
+}
+
+.scrollButtons {
+    position: absolute;
+    top: 300px;
+    cursor: pointer;
+}
+
+.scrollButtons.left {
+    left: -50px;
+}
+
+.scrollButtons.right {
+    right: -50px;
+}
+
+.hide {
+    display: none;
+}
+#c{
+	background: url(images/_menu_hover.png) center top no-repeat;
+}
